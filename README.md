@@ -103,7 +103,15 @@ I'm a **Business Intelligence Analyst** in Jeddah who turns messy, multi-source 
 - [**Microsoft Certified: Power BI Data Analyst Associate (PL-300)**](https://learn.microsoft.com/en-gb/users/saraali-1065/credentials/abde942c36385002), Microsoft, 2025
 - [Business Intelligence Analyst Course](https://www.udemy.com/certificate/UC-a10bd0ea-2655-4db0-91ab-740ef59f599c/), 365 Careers, 2024
 - [Thinking Like an Analyst](https://certificates.mavenanalytics.io/bdf3a464-f42f-4bcd-895a-388e60e05ca1#acc.704b8Jsk), Maven Analytics, 2024
+- [Microsoft Power BI Desktop for Business Intelligence](https://udemy-certificate.s3.amazonaws.com/pdf/UC-a4affd34-e899-4870-89a6-157dea7cb8b2.pdf), Udemy, 2023
+- [Foundations of Data Science](https://www.coursera.org/account/accomplishments/verify/Z4FHBEZ4LMSW), Google (Coursera), 2023
+- [Business Analytics with Excel](https://www.coursera.org/account/accomplishments/certificate/89BYS4C35HR5), Johns Hopkins University (Coursera), 2023
 - [PostgreSQL Essential Training](https://www.linkedin.com/learning/certificates/132b81c0693bfc071f8dc5bd99c9f6a666178be432e41c7cb7b1e7151e90a615), LinkedIn Learning, 2023
+- [Databases: Relational Databases and SQL](https://courses.edx.org/certificates/8eaece324b8c4774934ba4be31caa351), edX, 2023
+- [Introduction to Databases](https://www.coursera.org/account/accomplishments/certificate/EHCH5UQ5CW8B), Meta (Coursera), 2023
+- [Understanding Data Engineering](https://www.datacamp.com/statement-of-accomplishment/course/b32ee40a4fba66e55070bbfa0fd11b316fc0bf4b), DataCamp, 2023
+- [Intermediate Importing Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/8736ce0997163ab48916fff85688791ba31ad7f9), DataCamp, 2023
+- [Introduction to Programming Using Python](https://drive.google.com/file/d/1r5JebFJ1n9avNRKpwcRdT2AGFyZw5Kqc/view), New Horizons, 2019
 
 ---
 
